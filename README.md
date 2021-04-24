@@ -1,6 +1,5 @@
 # NLP-Model-Deployment
 Text classifier for e-mail messages with spam/ham classes
-# Data cleaning / Features extraction
 # Libraries requirement
 -	Flask
 -	gunicorn
